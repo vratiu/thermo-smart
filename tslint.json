@@ -1,0 +1,26 @@
+{
+    "enable": true,
+    "extends": [
+        "tslint-config-airbnb",
+        "tslint-clean-code"
+    ],
+    "rules": {
+        "indent": [
+            true,
+            "spaces",
+            4
+        ],
+        "import-name": false,
+        "ter-indent": [
+            true,
+            4
+        ],
+        "max-line-length": {
+            "options": {
+                "limit": 120
+            },
+            "severity": "warn"
+        },
+        "semicolon": false
+    }
+}
