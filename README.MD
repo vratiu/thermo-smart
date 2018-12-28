@@ -1,4 +1,4 @@
-# Making the smart thermometer even smarter
+# Making the smart thermostat even smarter
 
 ## Weather history
 Collects historical weather data and tracks it in a Mongo db.
