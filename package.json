@@ -1,7 +1,7 @@
 {
   "name": "thermo-smart",
   "version": "1.0.0",
-  "description": "POER Smart thermometer monitoring and skills",
+  "description": "POER Smart thermostat monitoring and skills",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
